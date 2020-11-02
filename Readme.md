@@ -1,11 +1,3 @@
-<p align="center" >
- <a href="#project">Project</a> • 
- <a href="#technologies">Technologies</a> • 
- <a href="#author">Author</a> • 
- <a href="#license">Licença</a> 
- 
-</p>
-
 <div align="center">
   <img src='/img/logo-green-2x.png' height='220px' />
 </div>
@@ -27,34 +19,29 @@
 </p>
 </div>
 
+## 👉 [Check Here](https://gdynatoursproject.netlify.app/)
+
+<br>
+
 ## 📜 About the project
 
-<div id="project">
 <p>
 Made for people who are adventurous, with incredible tours designed for them.
 </p>
-</div>
 
 ## 🔨 Technologies
-
-<div id="technologies">
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Sass](https://sass-lang.com/)
 
-</div>
-
 ## 👨‍💻 Author
 
-<div id="author">
-
 <a href="https://github.com/GabrielDoddy94">
- <img src="https://avatars3.githubusercontent.com/u/72951791?s=460&u=82d6329124e5ed45dbd27ea049f567d968cdc90b&v=4" width="100px"  alt=""/>
- <br />
+ <img src="https://avatars3.githubusercontent.com/u/72951791?s=460&u=82d6329124e5ed45dbd27ea049f567d968cdc90b&v=4" width="100px"  alt=""/> 
+ <br /> 
  <span><b>GabrielDoddy</b> &mdash; 😁❤️💻🚀 </span> </a>
 
- </div>
 <br>
 
 <div>
@@ -65,8 +52,4 @@ Made for people who are adventurous, with incredible tours designed for them.
 
 ## 📝 License
 
-<div id="license">
-
 MIT © [Gabriel Ferreira](https://github.com/GabrielDoddy94)
-
-</div>
